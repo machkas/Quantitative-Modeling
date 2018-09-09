@@ -1,0 +1,24 @@
+# Homework 1 - a test script in R
+
+y=c(10,12,35,15,17,35)
+
+x=c(25,35,55,22,10,22)
+
+mean(y)
+
+mode(y)
+
+range(y)
+
+median(y)
+
+
+mean(x)
+
+mode(x)
+
+range(x)
+
+median(x)
+
+plot(x,y)
